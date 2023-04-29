@@ -1,6 +1,6 @@
 # Nise-Group-Packaging
 
-This is a responsive Web site with HTML and CSS. 
+This is a responsive Web Site with HTML and CSS. 
 
 ### SCREEN GIF
 
